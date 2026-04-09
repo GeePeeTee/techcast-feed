@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Apr 2026 03:03:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 02:29:05 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -22,6 +22,14 @@
       <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-04-06.mp3" length="16024044" type="audio/mpeg"/>
       <pubDate>Tue, 07 Apr 2026 03:03:51 +0000</pubDate>
       <itunes:duration>801</itunes:duration>
+    </item>
+    <item>
+      <title>Anthropic's AI Finds Thousands of Zero-Days, OpenAI's Trust Crisis Deepens, and Google's AI Lies Millions of Times Per Hour</title>
+      <description>7 stories</description>
+      <guid isPermaLink="false">techcast-2026-04-08</guid>
+      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-04-08.mp3" length="18239767" type="audio/mpeg"/>
+      <pubDate>Thu, 09 Apr 2026 02:29:05 +0000</pubDate>
+      <itunes:duration>911</itunes:duration>
     </item>
   </channel>
 </rss>
