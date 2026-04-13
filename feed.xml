@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 11 Apr 2026 12:15:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 12:18:58 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -38,6 +38,14 @@
       <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-04-11.mp3" length="23626284" type="audio/mpeg"/>
       <pubDate>Sat, 11 Apr 2026 12:15:03 +0000</pubDate>
       <itunes:duration>1181</itunes:duration>
+    </item>
+    <item>
+      <title>Linux Draws the Line on AI Code, and the Machines Want Software Licenses</title>
+      <description>6 stories</description>
+      <guid isPermaLink="false">techcast-2026-04-13</guid>
+      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-04-13.mp3" length="19008676" type="audio/mpeg"/>
+      <pubDate>Mon, 13 Apr 2026 12:18:58 +0000</pubDate>
+      <itunes:duration>950</itunes:duration>
     </item>
   </channel>
 </rss>
