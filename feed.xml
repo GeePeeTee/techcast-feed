@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Apr 2026 12:18:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 12:19:13 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -46,6 +46,14 @@
       <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-04-13.mp3" length="19008676" type="audio/mpeg"/>
       <pubDate>Mon, 13 Apr 2026 12:18:58 +0000</pubDate>
       <itunes:duration>950</itunes:duration>
+    </item>
+    <item>
+      <title>Supply Chain Sabotage, Rust in Your Modem, and AI's Growing Trust Problem</title>
+      <description>8 stories</description>
+      <guid isPermaLink="false">techcast-2026-04-14</guid>
+      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-04-14.mp3" length="23267237" type="audio/mpeg"/>
+      <pubDate>Tue, 14 Apr 2026 12:19:13 +0000</pubDate>
+      <itunes:duration>1163</itunes:duration>
     </item>
   </channel>
 </rss>
