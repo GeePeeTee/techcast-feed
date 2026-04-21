@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Apr 2026 12:23:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 16:37:08 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -86,6 +86,14 @@
       <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-04-19.mp3" length="20186109" type="audio/mpeg"/>
       <pubDate>Sun, 19 Apr 2026 12:23:49 +0000</pubDate>
       <itunes:duration>1009</itunes:duration>
+    </item>
+    <item>
+      <title>The Post-Cook Era Begins, and Anthropic's Mythos Rattles Everyone</title>
+      <description>13 stories</description>
+      <guid isPermaLink="false">techcast-2026-04-21</guid>
+      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-04-21.mp3" length="32796669" type="audio/mpeg"/>
+      <pubDate>Tue, 21 Apr 2026 16:37:08 +0000</pubDate>
+      <itunes:duration>1639</itunes:duration>
     </item>
   </channel>
 </rss>
