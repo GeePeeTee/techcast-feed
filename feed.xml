@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Apr 2026 15:02:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 14:59:27 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -110,6 +110,14 @@
       <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-04-24.mp3" length="17998709" type="audio/mpeg"/>
       <pubDate>Fri, 24 Apr 2026 15:02:08 +0000</pubDate>
       <itunes:duration>899</itunes:duration>
+    </item>
+    <item>
+      <title>Anthropic's $40B, Cook's Exit, and the Capital Sweepstakes</title>
+      <description>9 stories</description>
+      <guid isPermaLink="false">techcast-2026-04-25</guid>
+      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-04-25.mp3" length="21246422" type="audio/mpeg"/>
+      <pubDate>Sat, 25 Apr 2026 14:59:27 +0000</pubDate>
+      <itunes:duration>1062</itunes:duration>
     </item>
   </channel>
 </rss>
