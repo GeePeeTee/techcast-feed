@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Apr 2026 14:59:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 14:57:34 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -118,6 +118,14 @@
       <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-04-25.mp3" length="21246422" type="audio/mpeg"/>
       <pubDate>Sat, 25 Apr 2026 14:59:27 +0000</pubDate>
       <itunes:duration>1062</itunes:duration>
+    </item>
+    <item>
+      <title>April 26, 2026 — Apple's Hardware Reboot, Sovereign AI Bolts Together, and a Chatbot's First Reckoning</title>
+      <description>11 stories</description>
+      <guid isPermaLink="false">techcast-2026-04-26</guid>
+      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-04-26.mp3" length="18491268" type="audio/mpeg"/>
+      <pubDate>Sun, 26 Apr 2026 14:57:34 +0000</pubDate>
+      <itunes:duration>924</itunes:duration>
     </item>
   </channel>
 </rss>
