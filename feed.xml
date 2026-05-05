@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 May 2026 15:09:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 15:10:58 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -158,6 +158,14 @@
       <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-05-04.mp3" length="18185949" type="audio/mpeg"/>
       <pubDate>Mon, 04 May 2026 15:09:58 +0000</pubDate>
       <itunes:duration>909</itunes:duration>
+    </item>
+    <item>
+      <title>The Flattery Vulnerability and Big Tech's AI Sneak Plays</title>
+      <description>20 stories</description>
+      <guid isPermaLink="false">techcast-2026-05-05</guid>
+      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-05-05.mp3" length="29600340" type="audio/mpeg"/>
+      <pubDate>Tue, 05 May 2026 15:10:57 +0000</pubDate>
+      <itunes:duration>1479</itunes:duration>
     </item>
   </channel>
 </rss>
