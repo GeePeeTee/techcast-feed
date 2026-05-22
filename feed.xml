@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 21 May 2026 23:48:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 15:19:28 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -222,6 +222,14 @@
       <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-05-21.mp3" length="19924966" type="audio/mpeg"/>
       <pubDate>Thu, 21 May 2026 23:48:44 +0000</pubDate>
       <itunes:duration>996</itunes:duration>
+    </item>
+    <item>
+      <title>TechCast Daily — May 22, 2026: Poisoned Code, Post-Search Google, and SpaceX's AI Pivot</title>
+      <description>7 stories</description>
+      <guid isPermaLink="false">techcast-2026-05-22</guid>
+      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-05-22.mp3" length="18892533" type="audio/mpeg"/>
+      <pubDate>Fri, 22 May 2026 15:19:28 +0000</pubDate>
+      <itunes:duration>944</itunes:duration>
     </item>
   </channel>
 </rss>
