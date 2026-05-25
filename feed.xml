@@ -2,9 +2,9 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>TechCast Daily</title>
-    <link>https://geepeetee.github.io/techcast-feed/feed.xml</link>
+    <link>https://modern-llm.github.io/techcast/feed.xml</link>
     <description>AI-curated tech news, delivered daily</description>
-    <atom:link href="https://geepeetee.github.io/techcast-feed/feed.xml" rel="self"/>
+    <atom:link href="https://modern-llm.github.io/techcast/feed.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
@@ -19,7 +19,7 @@
       <title>The Sam Altman Trust Problem, AI Tool Security Meltdowns, and Edge AI Comes Home</title>
       <description>7 stories</description>
       <guid isPermaLink="false">techcast-2026-04-06</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-04-06.mp3" length="16024044" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-04-06.mp3" length="16024044" type="audio/mpeg"/>
       <pubDate>Tue, 07 Apr 2026 03:03:51 +0000</pubDate>
       <itunes:duration>801</itunes:duration>
     </item>
@@ -27,7 +27,7 @@
       <title>Anthropic's AI Finds Thousands of Zero-Days, OpenAI's Trust Crisis Deepens, and Google's AI Lies Millions of Times Per Hour</title>
       <description>7 stories</description>
       <guid isPermaLink="false">techcast-2026-04-08</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-04-08.mp3" length="18239767" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-04-08.mp3" length="18239767" type="audio/mpeg"/>
       <pubDate>Thu, 09 Apr 2026 02:29:05 +0000</pubDate>
       <itunes:duration>911</itunes:duration>
     </item>
@@ -35,7 +35,7 @@
       <title>OpenClaw's Memory Crisis, Bluesky's Vibe Coding Meltdown, and John Deere Pays Up</title>
       <description>11 stories</description>
       <guid isPermaLink="false">techcast-2026-04-11</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-04-11.mp3" length="23626284" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-04-11.mp3" length="23626284" type="audio/mpeg"/>
       <pubDate>Sat, 11 Apr 2026 12:15:03 +0000</pubDate>
       <itunes:duration>1181</itunes:duration>
     </item>
@@ -43,7 +43,7 @@
       <title>Linux Draws the Line on AI Code, and the Machines Want Software Licenses</title>
       <description>6 stories</description>
       <guid isPermaLink="false">techcast-2026-04-13</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-04-13.mp3" length="19008676" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-04-13.mp3" length="19008676" type="audio/mpeg"/>
       <pubDate>Mon, 13 Apr 2026 12:18:58 +0000</pubDate>
       <itunes:duration>950</itunes:duration>
     </item>
@@ -51,7 +51,7 @@
       <title>Supply Chain Sabotage, Rust in Your Modem, and AI's Growing Trust Problem</title>
       <description>8 stories</description>
       <guid isPermaLink="false">techcast-2026-04-14</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-04-14.mp3" length="23267237" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-04-14.mp3" length="23267237" type="audio/mpeg"/>
       <pubDate>Tue, 14 Apr 2026 12:19:13 +0000</pubDate>
       <itunes:duration>1163</itunes:duration>
     </item>
@@ -59,7 +59,7 @@
       <title>Anthropic's $380B 'Bargain,' Windows Recall Hacked Again, and Snap Cuts Deep</title>
       <description>14 stories</description>
       <guid isPermaLink="false">techcast-2026-04-15</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-04-15.mp3" length="23014760" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-04-15.mp3" length="23014760" type="audio/mpeg"/>
       <pubDate>Wed, 15 Apr 2026 12:19:02 +0000</pubDate>
       <itunes:duration>1150</itunes:duration>
     </item>
@@ -67,7 +67,7 @@
       <title>TechCast Daily — April 16, 2026: Privilege, Private Inference, and the Dial-Reading Robot</title>
       <description>10 stories</description>
       <guid isPermaLink="false">techcast-2026-04-16</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-04-16.mp3" length="19769015" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-04-16.mp3" length="19769015" type="audio/mpeg"/>
       <pubDate>Thu, 16 Apr 2026 12:21:36 +0000</pubDate>
       <itunes:duration>988</itunes:duration>
     </item>
@@ -75,7 +75,7 @@
       <title>TechCast Daily — April 17, 2026: Three Frontier Models, Agents Everywhere, and a Transformer in HyperCard</title>
       <description>6 stories</description>
       <guid isPermaLink="false">techcast-2026-04-17</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-04-17.mp3" length="17549031" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-04-17.mp3" length="17549031" type="audio/mpeg"/>
       <pubDate>Fri, 17 Apr 2026 12:19:18 +0000</pubDate>
       <itunes:duration>877</itunes:duration>
     </item>
@@ -83,7 +83,7 @@
       <title>OpenAI's Retreat, Cursor's Ascent, and the Tokenmaxxing Reckoning</title>
       <description>8 stories</description>
       <guid isPermaLink="false">techcast-2026-04-19</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-04-19.mp3" length="20186109" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-04-19.mp3" length="20186109" type="audio/mpeg"/>
       <pubDate>Sun, 19 Apr 2026 12:23:49 +0000</pubDate>
       <itunes:duration>1009</itunes:duration>
     </item>
@@ -91,7 +91,7 @@
       <title>The Post-Cook Era Begins, and Anthropic's Mythos Rattles Everyone</title>
       <description>13 stories</description>
       <guid isPermaLink="false">techcast-2026-04-21</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-04-21.mp3" length="32796669" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-04-21.mp3" length="32796669" type="audio/mpeg"/>
       <pubDate>Tue, 21 Apr 2026 16:37:08 +0000</pubDate>
       <itunes:duration>1639</itunes:duration>
     </item>
@@ -99,7 +99,7 @@
       <title>Cursor's $60B Bet, Mythos Cuts Both Ways, and the End of Cheap AI Coding</title>
       <description>12 stories</description>
       <guid isPermaLink="false">techcast-2026-04-22</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-04-22.mp3" length="17538916" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-04-22.mp3" length="17538916" type="audio/mpeg"/>
       <pubDate>Wed, 22 Apr 2026 14:57:51 +0000</pubDate>
       <itunes:duration>876</itunes:duration>
     </item>
@@ -107,7 +107,7 @@
       <title>The Collapse of Old Moats</title>
       <description>8 stories</description>
       <guid isPermaLink="false">techcast-2026-04-24</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-04-24.mp3" length="17998709" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-04-24.mp3" length="17998709" type="audio/mpeg"/>
       <pubDate>Fri, 24 Apr 2026 15:02:08 +0000</pubDate>
       <itunes:duration>899</itunes:duration>
     </item>
@@ -115,7 +115,7 @@
       <title>Anthropic's $40B, Cook's Exit, and the Capital Sweepstakes</title>
       <description>9 stories</description>
       <guid isPermaLink="false">techcast-2026-04-25</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-04-25.mp3" length="21246422" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-04-25.mp3" length="21246422" type="audio/mpeg"/>
       <pubDate>Sat, 25 Apr 2026 14:59:27 +0000</pubDate>
       <itunes:duration>1062</itunes:duration>
     </item>
@@ -123,7 +123,7 @@
       <title>April 26, 2026 — Apple's Hardware Reboot, Sovereign AI Bolts Together, and a Chatbot's First Reckoning</title>
       <description>11 stories</description>
       <guid isPermaLink="false">techcast-2026-04-26</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-04-26.mp3" length="18491268" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-04-26.mp3" length="18491268" type="audio/mpeg"/>
       <pubDate>Sun, 26 Apr 2026 14:57:34 +0000</pubDate>
       <itunes:duration>924</itunes:duration>
     </item>
@@ -131,7 +131,7 @@
       <title>Confessing Agents, Saturated Benchmarks, and a Crack in Trisomy 21</title>
       <description>10 stories</description>
       <guid isPermaLink="false">techcast-2026-04-27</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-04-27.mp3" length="21374590" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-04-27.mp3" length="21374590" type="audio/mpeg"/>
       <pubDate>Mon, 27 Apr 2026 15:00:35 +0000</pubDate>
       <itunes:duration>1068</itunes:duration>
     </item>
@@ -139,7 +139,7 @@
       <title>AI's Great Untethering</title>
       <description>10 stories</description>
       <guid isPermaLink="false">techcast-2026-04-28</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-04-28.mp3" length="16688306" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-04-28.mp3" length="16688306" type="audio/mpeg"/>
       <pubDate>Tue, 28 Apr 2026 14:59:40 +0000</pubDate>
       <itunes:duration>834</itunes:duration>
     </item>
@@ -147,7 +147,7 @@
       <title>Anthropic at $900B, OpenAI on AWS, and the Pentagon's New Favorite Lab</title>
       <description>12 stories</description>
       <guid isPermaLink="false">techcast-2026-04-30</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-04-30.mp3" length="24410114" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-04-30.mp3" length="24410114" type="audio/mpeg"/>
       <pubDate>Thu, 30 Apr 2026 15:08:01 +0000</pubDate>
       <itunes:duration>1220</itunes:duration>
     </item>
@@ -155,7 +155,7 @@
       <title>Anthropic's $900B Pentagon Paradox, and the AI Doctor Wins the ER</title>
       <description>8 stories</description>
       <guid isPermaLink="false">techcast-2026-05-04</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-05-04.mp3" length="18185949" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-05-04.mp3" length="18185949" type="audio/mpeg"/>
       <pubDate>Mon, 04 May 2026 15:09:58 +0000</pubDate>
       <itunes:duration>909</itunes:duration>
     </item>
@@ -163,7 +163,7 @@
       <title>The Flattery Vulnerability and Big Tech's AI Sneak Plays</title>
       <description>20 stories</description>
       <guid isPermaLink="false">techcast-2026-05-05</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-05-05.mp3" length="29600340" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-05-05.mp3" length="29600340" type="audio/mpeg"/>
       <pubDate>Tue, 05 May 2026 15:10:57 +0000</pubDate>
       <itunes:duration>1479</itunes:duration>
     </item>
@@ -171,7 +171,7 @@
       <title>Anthropic Rents a Data Center, Apple Calls Intel, and Agents Learn to Dream</title>
       <description>8 stories</description>
       <guid isPermaLink="false">techcast-2026-05-10</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-05-10.mp3" length="16900039" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-05-10.mp3" length="16900039" type="audio/mpeg"/>
       <pubDate>Sun, 10 May 2026 23:41:20 +0000</pubDate>
       <itunes:duration>844</itunes:duration>
     </item>
@@ -179,7 +179,7 @@
       <title>OpenAI's Messy Week, Anthropic's Two-Front War, and AI Hallucinations Meet Reality</title>
       <description>8 stories</description>
       <guid isPermaLink="false">techcast-2026-05-16</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-05-16.mp3" length="18951086" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-05-16.mp3" length="18951086" type="audio/mpeg"/>
       <pubDate>Sat, 16 May 2026 22:51:13 +0000</pubDate>
       <itunes:duration>947</itunes:duration>
     </item>
@@ -187,7 +187,7 @@
       <title>TechCast Daily — Petabyte Servers, Weekend Gaussian Splats, and Malta's National ChatGPT</title>
       <description>3 stories</description>
       <guid isPermaLink="false">techcast-2026-05-17</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-05-17.mp3" length="6917014" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-05-17.mp3" length="6917014" type="audio/mpeg"/>
       <pubDate>Sun, 17 May 2026 22:42:13 +0000</pubDate>
       <itunes:duration>345</itunes:duration>
     </item>
@@ -195,7 +195,7 @@
       <title>TechCast Daily — May 18, 2026: When AI Isn't the Answer</title>
       <description>6 stories</description>
       <guid isPermaLink="false">techcast-2026-05-18</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-05-18.mp3" length="16981621" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-05-18.mp3" length="16981621" type="audio/mpeg"/>
       <pubDate>Tue, 19 May 2026 04:32:01 +0000</pubDate>
       <itunes:duration>849</itunes:duration>
     </item>
@@ -203,7 +203,7 @@
       <title>Musk Loses, Anthropic Buys the Plumbing, and Google Takes the Stage</title>
       <description>9 stories</description>
       <guid isPermaLink="false">techcast-2026-05-19</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-05-19.mp3" length="13241951" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-05-19.mp3" length="13241951" type="audio/mpeg"/>
       <pubDate>Tue, 19 May 2026 20:53:17 +0000</pubDate>
       <itunes:duration>662</itunes:duration>
     </item>
@@ -211,7 +211,7 @@
       <title>Google bets the company on agents, Karpathy joins Anthropic, and Figure's robots go viral</title>
       <description>10 stories</description>
       <guid isPermaLink="false">techcast-2026-05-20</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-05-20.mp3" length="21610293" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-05-20.mp3" length="21610293" type="audio/mpeg"/>
       <pubDate>Wed, 20 May 2026 15:10:45 +0000</pubDate>
       <itunes:duration>1080</itunes:duration>
     </item>
@@ -219,7 +219,7 @@
       <title>TechCast Daily: Musk Loses, Then Cashes In</title>
       <description>10 stories</description>
       <guid isPermaLink="false">techcast-2026-05-21</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-05-21.mp3" length="19924966" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-05-21.mp3" length="19924966" type="audio/mpeg"/>
       <pubDate>Thu, 21 May 2026 23:48:44 +0000</pubDate>
       <itunes:duration>996</itunes:duration>
     </item>
@@ -227,7 +227,7 @@
       <title>TechCast Daily — May 22, 2026: Poisoned Code, Post-Search Google, and SpaceX's AI Pivot</title>
       <description>7 stories</description>
       <guid isPermaLink="false">techcast-2026-05-22</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-05-22.mp3" length="18892533" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-05-22.mp3" length="18892533" type="audio/mpeg"/>
       <pubDate>Fri, 22 May 2026 15:19:28 +0000</pubDate>
       <itunes:duration>944</itunes:duration>
     </item>
@@ -235,7 +235,7 @@
       <title>SpaceX Goes Public, Musk Kills an Executive Order, and Microsoft Pulls the Plug on Claude</title>
       <description>10 stories</description>
       <guid isPermaLink="false">techcast-2026-05-23</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-05-23.mp3" length="17815413" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-05-23.mp3" length="17815413" type="audio/mpeg"/>
       <pubDate>Sat, 23 May 2026 17:08:14 +0000</pubDate>
       <itunes:duration>890</itunes:duration>
     </item>
@@ -243,7 +243,7 @@
       <title>Starship Sticks the Landing, OpenAI's 72-Hour Coup, and Chatbots With Personality Problems</title>
       <description>8 stories</description>
       <guid isPermaLink="false">techcast-2026-05-24</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-05-24.mp3" length="19047094" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-05-24.mp3" length="19047094" type="audio/mpeg"/>
       <pubDate>Sun, 24 May 2026 15:04:45 +0000</pubDate>
       <itunes:duration>952</itunes:duration>
     </item>
