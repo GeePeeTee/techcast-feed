@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 25 May 2026 22:03:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 15:20:25 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>The Sam Altman Trust Problem, AI Tool Security Meltdowns, and Edge AI Comes Home</title>
-      <description>7 stories</description>
-      <guid isPermaLink="false">techcast-2026-04-06</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-04-06.mp3" length="16024044" type="audio/mpeg"/>
-      <pubDate>Tue, 07 Apr 2026 03:03:51 +0000</pubDate>
-      <itunes:duration>801</itunes:duration>
-    </item>
     <item>
       <title>Anthropic's AI Finds Thousands of Zero-Days, OpenAI's Trust Crisis Deepens, and Google's AI Lies Millions of Times Per Hour</title>
       <description>7 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-05-25.mp3" length="4397554" type="audio/mpeg"/>
       <pubDate>Mon, 25 May 2026 22:03:02 +0000</pubDate>
       <itunes:duration>732</itunes:duration>
+    </item>
+    <item>
+      <title>Uber Pumps the Brakes, Claude Finds a Kernel Bug</title>
+      <description>6 stories</description>
+      <guid isPermaLink="false">techcast-2026-05-26</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-05-26.mp3" length="5488204" type="audio/mpeg"/>
+      <pubDate>Tue, 26 May 2026 15:20:25 +0000</pubDate>
+      <itunes:duration>914</itunes:duration>
     </item>
   </channel>
 </rss>
