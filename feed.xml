@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 26 May 2026 15:20:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 23:52:41 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>Anthropic's AI Finds Thousands of Zero-Days, OpenAI's Trust Crisis Deepens, and Google's AI Lies Millions of Times Per Hour</title>
-      <description>7 stories</description>
-      <guid isPermaLink="false">techcast-2026-04-08</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-04-08.mp3" length="18239767" type="audio/mpeg"/>
-      <pubDate>Thu, 09 Apr 2026 02:29:05 +0000</pubDate>
-      <itunes:duration>911</itunes:duration>
-    </item>
     <item>
       <title>OpenClaw's Memory Crisis, Bluesky's Vibe Coding Meltdown, and John Deere Pays Up</title>
       <description>11 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-05-26.mp3" length="5488204" type="audio/mpeg"/>
       <pubDate>Tue, 26 May 2026 15:20:25 +0000</pubDate>
       <itunes:duration>914</itunes:duration>
+    </item>
+    <item>
+      <title>AI gets its receipts, Nvidia hugs Taiwan, and one Python bug shakes the agent economy</title>
+      <description>8 stories</description>
+      <guid isPermaLink="false">techcast-2026-05-27</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-05-27.mp3" length="5828081" type="audio/mpeg"/>
+      <pubDate>Wed, 27 May 2026 23:52:41 +0000</pubDate>
+      <itunes:duration>971</itunes:duration>
     </item>
   </channel>
 </rss>
