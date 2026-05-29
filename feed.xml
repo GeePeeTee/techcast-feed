@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 27 May 2026 23:52:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 07:00:24 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>OpenClaw's Memory Crisis, Bluesky's Vibe Coding Meltdown, and John Deere Pays Up</title>
-      <description>11 stories</description>
-      <guid isPermaLink="false">techcast-2026-04-11</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-04-11.mp3" length="23626284" type="audio/mpeg"/>
-      <pubDate>Sat, 11 Apr 2026 12:15:03 +0000</pubDate>
-      <itunes:duration>1181</itunes:duration>
-    </item>
     <item>
       <title>Linux Draws the Line on AI Code, and the Machines Want Software Licenses</title>
       <description>6 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-05-27.mp3" length="5828081" type="audio/mpeg"/>
       <pubDate>Wed, 27 May 2026 23:52:41 +0000</pubDate>
       <itunes:duration>971</itunes:duration>
+    </item>
+    <item>
+      <title>Apple Copies the ChatGPT Playbook, and the AI Bill Comes Due</title>
+      <description>8 stories</description>
+      <guid isPermaLink="false">techcast-2026-05-28</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-05-28.mp3" length="5804008" type="audio/mpeg"/>
+      <pubDate>Fri, 29 May 2026 07:00:24 +0000</pubDate>
+      <itunes:duration>967</itunes:duration>
     </item>
   </channel>
 </rss>
